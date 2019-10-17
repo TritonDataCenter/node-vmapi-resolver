@@ -58,8 +58,3 @@ the query to VMAPI, but only if an exact match can be found in the tag name
 ## License
 
 MPL v2. See the LICENSE file.
-
-## Contributing
-
-Contributions should be made via the [Joyent Gerrit](https://cr.joyent.us).
-See the CONTRIBUTING file.
